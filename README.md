@@ -13,6 +13,14 @@ Below is the animation rive preview link
 
 Below is the code snippet used for the state machine configuration in the animation:
 
+
+## Contact Information
+
+- **Name:** Jitender Singh
+- **Email:** [jitenders859@gmail.com](mailto:jitenders859@gmail.com)
+- **LinkedIn:** [Jitender Singh on LinkedIn](https://www.linkedin.com/in/jitender-singh-shekhawat-549535100/)
+
+
 ```ts
 // State Machine Inputs
 interface AnimationInputs {
@@ -59,9 +67,3 @@ interface StateMachineConfig {
     };
   };
 }
-
-## Contact Information
-
-- **Name:** Jitender Singh
-- **Email:** [jitenders859@gmail.com](mailto:jitenders859@gmail.com)
-- **LinkedIn:** [Jitender Singh on LinkedIn](https://www.linkedin.com/in/jitender-singh-shekhawat-549535100/)
